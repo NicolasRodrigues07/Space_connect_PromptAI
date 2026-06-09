@@ -29,7 +29,15 @@ O software desenvolvido atua como o painel de Controle de Missão (Mission Contr
 
 ## Demonstração
 
-![Dados da missão] <img width="491" height="432" alt="image" src="https://github.com/user-attachments/assets/d3c462b6-8145-4f18-9177-ec397b5593ad" />
+<img width="491" height="432" alt="image" src="https://github.com/user-attachments/assets/d3c462b6-8145-4f18-9177-ec397b5593ad" />
 
-![Alerta crítico] <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/7c0601a4-c34f-4b13-8e59-fc67b728dc36" />
+<img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/7c0601a4-c34f-4b13-8e59-fc67b728dc36" />
+
+## Como Executar
+
+Abra o notebook no Google Colab:
+[Acessar Notebook]([https://colab.research.google.com/drive/SEU_LINK_AQUI](https://colab.research.google.com/drive/1pSeHl5lnVRr-ARKAkn4JL7FKA8Hb11ku?usp=sharing))
+
+Execute as células em ordem. O modelo Llama será instalado automaticamente.
+
 
