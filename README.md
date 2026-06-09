@@ -2,6 +2,10 @@
 
 # Projeto Aurora - Mission Control AI
 
+**Integrantes:**
+1 - Nicolas Andrade Rodrigues — RM: 572782
+2 - Lucas Caram Bueno  — RM: 570158
+
 Este projeto consiste em um sistema inteligente de monitoramento de missões espaciais que integra automação de sensores, regras lógicas de tomada de decisão e inteligência artificial local para gerenciar cápsulas adaptativas e plantas-sensoras.
 
 ## O que é o Projeto Aurora?
@@ -22,3 +26,10 @@ O software desenvolvido atua como o painel de Controle de Missão (Mission Contr
 * **Mecanismo de Resposta Dinâmica:** Executa contramedidas imediatas e automáticas baseadas em regras de engenharia espacial, como ativação de sistemas de resfriamento, isolamento de radiação, acionamento de protocolos de redundância em comunicações e ajustes ambientais em resposta ao estresse biométrico.
 * **Análise por Inteligência Artificial:** Integra o modelo de linguagem local Llama 3.2 (via Ollama) para ler o cenário de alertas e formular diagnósticos contextuais concisos e recomendações prioritárias para as equipes de comando ou para os sistemas de bordo.
 * **Monitoramento Contínuo:** Executa rotinas cíclicas de varredura que atualizam o console de controle de forma limpa, permitindo observar a estabilização ou a degradação do ecossistema da cápsula ao longo do tempo.
+
+## Demonstração
+
+![Dados da missão] <img width="491" height="432" alt="image" src="https://github.com/user-attachments/assets/d3c462b6-8145-4f18-9177-ec397b5593ad" />
+
+![Alerta crítico] <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/7c0601a4-c34f-4b13-8e59-fc67b728dc36" />
+
