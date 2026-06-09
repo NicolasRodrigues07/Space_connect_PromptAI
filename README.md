@@ -36,7 +36,7 @@ O software desenvolvido atua como o painel de Controle de Missão (Mission Contr
 ## Como Executar
 
 Abra o notebook no Google Colab:
-[Acessar Notebook]([https://colab.research.google.com/drive/SEU_LINK_AQUI](https://colab.research.google.com/drive/1pSeHl5lnVRr-ARKAkn4JL7FKA8Hb11ku?usp=sharing))
+https://colab.research.google.com/drive/1pSeHl5lnVRr-ARKAkn4JL7FKA8Hb11ku?usp=sharing
 
 Execute as células em ordem. O modelo Llama será instalado automaticamente.
 
