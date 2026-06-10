@@ -33,6 +33,11 @@ O software desenvolvido atua como o painel de Controle de Missão (Mission Contr
 
 <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/7c0601a4-c34f-4b13-8e59-fc67b728dc36" />
 
+## Link do vídeo de demonstração: 
+
+https://youtu.be/LI89DY0MaB0
+
+
 ## Como Executar
 
 Abra o notebook no Google Colab:
